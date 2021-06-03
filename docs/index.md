@@ -1,5 +1,8 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-   <title>这是我做的第一个网页</title>
+    <meta charset="UTF-8">
+    <title>这是我做的第一个网页</title>
 </head>
 <body>
 <!--标题标签-->
