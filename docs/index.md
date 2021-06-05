@@ -14,6 +14,6 @@
 <h3>会长的联系方式</h3>
      <p>vx：OVERABANDON</p>
      <p>qq:496426017</p>
-     <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2::52" alt="点击联系会长qq" title="点击联系会长"/></a>
+     <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2546923675&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:2546923675:53" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 </body>
 
