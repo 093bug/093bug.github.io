@@ -1,5 +1,4 @@
 <head>
-     <title>这是我做的第一个网页</title>
 </head>
 <body>
 <!--标题标签-->
